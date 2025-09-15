@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Fatma</h1>
 <h3 align="center">Senior Systems and Biomedical Engineering Student</h3>
 
-![Banner](assets/banner.png)
-
+<!-- Banner -->
+<p align="center">
+  <img src="mybanner.gif" alt="Animated Banner" width="100%" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
