@@ -25,6 +25,26 @@
 
 ---
 
+---
+
+## Open Source Contributions  
+- 🔗 Open PR in progress: [NeuroInformatics/napari](https://github.com/brainglobe/cellfinder/pull/510)  
+
+---
+
+## 🖥️ Example of Applications  
+Built a series of **6 desktop applications** (signal processing, visualization, and analysis) in just **2.5 months**.  
+1. Signal Viewer and Manipulation
+2. Nyquist Sampling Studio
+3. Signal Equalizer
+4- Image Mixer By Fourier 
+5. Beamforming and applications in 5G and Tumor ablation
+6. Digital Filter Design with many features including zero-pole design, filter realization and C code export, and others
+
+👉 [Check the DSP Organization Repos]([YourDSPOrgLinkHere](https://github.com/DSP-Projects))  
+
+---
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -100,4 +120,5 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a>
 </p>
+
 
