@@ -7,9 +7,23 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/fatma-s-elsharkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-s-elsharkawy" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/fatma-s-elsharkawy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Fatma Elsharkawy" height="30" width="40" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="mailto:fatmaselsharkawy@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-Contact-green" alt="Email" height="30" />
+  </a>
+  <a href="https://drive.google.com/file/d/1JP9d394TQ_VWviwPhsa2HLa77vv083ld/view?usp=sharing" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Resume-PDF-blue" alt="Resume" height="30" />
+  </a>
+</p>
+
+---
 
 <h3 align="left">Languages:</h3>
 <p align="left">
