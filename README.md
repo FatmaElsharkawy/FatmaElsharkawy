@@ -30,7 +30,7 @@
 - Merged PR: [NeuroInformatics/napari](https://github.com/brainglobe/cellfinder/pull/510)  
 
 
-## 🖥️ Sample of Applications ()  
+## 🖥️ Sample of Applications
 Built a series of **6 desktop applications** (signal processing, visualization, and analysis) in just **2.5 months**.  
 1. Signal Monitoring and Manipulation
 2. Nyquist Sampling Studio
