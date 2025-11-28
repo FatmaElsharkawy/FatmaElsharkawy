@@ -30,6 +30,18 @@
 - Merged PR: [NeuroInformatics/napari](https://github.com/brainglobe/cellfinder/pull/510)  
 
 
+## 🖥️ Sample of Applications ()  
+Built a series of **6 desktop applications** (signal processing, visualization, and analysis) in just **2.5 months**.  
+1. Signal Monitoring and Manipulation
+2. Nyquist Sampling Studio
+3. Signal Equalizer
+4- Image Mixer By Fourier 
+5. Beamforming and applications in 5G and Tumor ablation
+6. Digital Filter Design with many features including zero-pole design, filter realization and C code export, and others
+
+👉 [Check the DSP Organization Repos](https://github.com/orgs/DSP-Projects/repositories)
+
+
 ---
 
 <h3 align="left">Languages:</h3>
@@ -110,14 +122,4 @@
 
 ---
 
-## 🖥️ Example of Applications  
-Built a series of **6 desktop applications** (signal processing, visualization, and analysis) in just **2.5 months**.  
-1. Signal Monitoring and Manipulation
-2. Nyquist Sampling Studio
-3. Signal Equalizer
-4- Image Mixer By Fourier 
-5. Beamforming and applications in 5G and Tumor ablation
-6. Digital Filter Design with many features including zero-pole design, filter realization and C code export, and others
-
-👉 [Check the DSP Organization Repos](https://github.com/DSP-Projects)
 
