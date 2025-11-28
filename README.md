@@ -27,7 +27,7 @@
 
 
 ## Open Source Contributions  
-- 🔗 Open PR in progress: [NeuroInformatics/napari](https://github.com/brainglobe/cellfinder/pull/510)  
+- Merged PR: [NeuroInformatics/napari](https://github.com/brainglobe/cellfinder/pull/510)  
 
 
 ---
